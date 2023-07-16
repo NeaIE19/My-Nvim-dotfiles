@@ -1,0 +1,7 @@
+require("lua.plugins")
+require("lua.global")
+require("lua.configs.lualine")
+require("lua.configs.kanagawa")
+require("lua.configs.nvim-tree")
+require("lua.configs.keymaps")
+require("lua.configs.treesitter")
